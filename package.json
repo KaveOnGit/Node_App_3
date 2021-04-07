@@ -1,0 +1,12 @@
+{
+  "name": "soviet_orders",
+  "version": "1.0.0",
+  "description": "Soviet War Orders",
+  "main": "app14.js",
+  "scripts": {
+    "start": "node app14.js",
+    "dev":"nodemon -L app14.js"
+  },
+  "author": "Darakhshan Kaweh",
+  "license": "ISC"
+}
